@@ -1,4 +1,4 @@
-Package: php-apache
+Package: php7-apache
 Architecture: aarch64
 Installed-Size: 12376
 Maintainer: Termux members @termux
@@ -13,7 +13,7 @@ SHA1: 3c500f25c1608739b2a32be59c1ce8b9a09cfc4f
 SHA256: 23f4ea4874d4c9f5806319e5781992d47c74bb0d1f9bd584a6dd7e52370cd431
 SHA512: 64f705d5d70af1aeec08e8a96daf19b7552a9f8d70157cb168fc82090410b6902dd54666acfdb9ee8935e7c81bc51c79f7c7a4594bd94ba86a42a2abebfea3c8
 
-Package: php
+Package: php7
 Architecture: aarch64
 Installed-Size: 43572
 Maintainer: Termux members @termux
