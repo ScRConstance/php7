@@ -1,1 +1,32 @@
+Package: php-apache
+Architecture: aarch64
+Installed-Size: 12376
+Maintainer: Termux members @termux
+Version: 7.4.12
+Homepage: https://php.net
+Depends: apache2, php (= 7.4.12)
+Description: Apache 2.0 Handler module for PHP
+Filename: dists/termux/extras/binary-aarch64/php-apache_7.4.12_aarch64.deb
+Size: 2174424
+MD5Sum: ce59abe5370f6a019c241e93aad8439e
+SHA1: 3c500f25c1608739b2a32be59c1ce8b9a09cfc4f
+SHA256: 23f4ea4874d4c9f5806319e5781992d47c74bb0d1f9bd584a6dd7e52370cd431
+SHA512: 64f705d5d70af1aeec08e8a96daf19b7552a9f8d70157cb168fc82090410b6902dd54666acfdb9ee8935e7c81bc51c79f7c7a4594bd94ba86a42a2abebfea3c8
+
+Package: php
+Architecture: aarch64
+Installed-Size: 43572
+Maintainer: Termux members @termux
+Version: 7.4.12
+Homepage: https://php.net
+Depends: freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php-mysql, php-dev
+Replaces: php-mysql, php-dev
+Description: Server-side, HTML-embedded scripting language
+Filename: dists/termux/extras/binary-aarch64/php_7.4.12_aarch64.deb
+Size: 7325982
+MD5Sum: 0ac23de8a736d6860bcdea3c07baeafb
+SHA1: e2ce32659fdb2d8a7a4b7d576db76472dd9022a1
+SHA256: 8d3e71b5bf9877eaa659ed647feb49855cc7dde12bede2cabab76be0c702bf9c
+SHA512: 317dd3d2e16f91f3ffcf06557adf9d445e72356a1785ee07b918d2f165a7e3aaba7c87608a9bcecf95a610968c21c6fd8b4e2abdd858d9cc2241fdb5ce76a990
 
